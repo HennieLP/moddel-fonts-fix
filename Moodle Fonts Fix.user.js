@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Moddle Fonts Fix
+// @name         Moodle Fonts Fix
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to fix the Moodle Site
